@@ -1,0 +1,50 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "MO4/android_device_motorola_omap4-common",
+    "target_path":  "device/motorola/omap4-common",
+    "revision":     "kitkat"
+  },
+  {
+    "remote":       "github",
+    "repository":   "MO4/android_kernel_motorola_omap4-common",
+    "target_path":  "kernel/motorola/omap4-common",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_hardware_ti_omap4xxx",
+    "target_path":  "hardware/ti/omap4xxx",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_hardware_ti_wlan",
+    "target_path":  "hardware/ti/wlan",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_hardware_ti_wpan",
+    "target_path":  "hardware/ti/wpan",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_prebuilt",
+    "target_path":  "prebuilt",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_external_wpa_supplicant_8_ti",
+    "target_path":  "external/wpa_supplicant_8_ti",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "blobs",
+    "repository":   "proprietary_vendor_motorola",
+    "target_path":  "vendor/motorola",
+    "revision":     "cm-11.0"
+  }  
+]
